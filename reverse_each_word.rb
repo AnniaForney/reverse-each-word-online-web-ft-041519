@@ -3,7 +3,12 @@ def reverse_each_word(string)
   return string 
 end 
 
-def reverse_each_word(string, string two)
+def reverse_each_word(string two)
+  reverse_each_word ("Pizza")
+  string two.each 
+  return string
 end 
 
-def reverse_each_word()
+def reverse_each_word(string)
+  string.collect 
+end 
